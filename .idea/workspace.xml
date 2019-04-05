@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4049adf1-10da-454c-b31d-6323a8b20a2a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/koans/about_blocks.rb" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_blocks.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_sandwich_code.rb" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_sandwich_code.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,15 +12,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/koans/about_methods.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/koans/about_triangle_project.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -66,13 +57,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/koans/about_blocks.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="92" selection-start-line="92" selection-end-line="92" />
+            <state relative-caret-position="318">
+              <caret line="92" column="19" selection-start-line="92" selection-start-column="19" selection-end-line="92" selection-end-column="19" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/koans/about_sandwich_code.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="82" column="66" selection-start-line="82" selection-start-column="41" selection-end-line="82" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/example_file.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -89,15 +94,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="299">
               <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -130,6 +126,7 @@
         <option value="$PROJECT_DIR$/koans/triangle.rb" />
         <option value="$PROJECT_DIR$/koans/about_iteration.rb" />
         <option value="$PROJECT_DIR$/koans/about_blocks.rb" />
+        <option value="$PROJECT_DIR$/koans/about_sandwich_code.rb" />
       </list>
     </option>
   </component>
@@ -283,12 +280,12 @@
       <updated>1554369682602</updated>
       <workItem from="1554369685653" duration="913000" />
       <workItem from="1554370623261" duration="1897000" />
-      <workItem from="1554372546241" duration="19725000" />
+      <workItem from="1554372546241" duration="20148000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22535000" />
+    <option name="totallyTimeSpent" value="22958000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -537,8 +534,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/koans/about_blocks.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        <state relative-caret-position="318">
+          <caret line="92" column="19" selection-start-line="92" selection-start-column="19" selection-end-line="92" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/example_file.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_sandwich_code.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="82" column="66" selection-start-line="82" selection-start-column="41" selection-end-line="82" selection-end-column="66" />
         </state>
       </provider>
     </entry>
