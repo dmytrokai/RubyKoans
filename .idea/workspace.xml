@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4049adf1-10da-454c-b31d-6323a8b20a2a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/koans/about_classes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_classes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_class_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_class_methods.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_dice_project.rb" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_dice_project.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_inheritance.rb" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_inheritance.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_message_passing.rb" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_message_passing.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_modules.rb" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_modules.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_open_classes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_open_classes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_proxy_object_project.rb" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_proxy_object_project.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_scope.rb" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_scope.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koans/about_to_str.rb" beforeDir="false" afterPath="$PROJECT_DIR$/koans/about_to_str.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,87 +21,80 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/koans/about_iteration.rb">
+        <entry file="file://$PROJECT_DIR$/koans/about_dice_project.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="101" column="45" selection-start-line="101" selection-start-column="45" selection-end-line="101" selection-end-column="45" />
+            <state relative-caret-position="-589">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/koans/about_blocks.rb">
+        <entry file="file://$PROJECT_DIR$/koans/about_inheritance.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="92" column="19" selection-start-line="92" selection-start-column="19" selection-end-line="92" selection-end-column="19" />
+            <state relative-caret-position="299">
+              <caret line="80" column="18" lean-forward="true" selection-start-line="80" selection-start-column="18" selection-end-line="80" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/koans/about_sandwich_code.rb">
+        <entry file="file://$PROJECT_DIR$/koans/about_modules.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="106" column="18" selection-start-line="106" selection-start-column="18" selection-end-line="106" selection-end-column="18" />
+            <state relative-caret-position="356">
+              <caret line="61" column="5" lean-forward="true" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/koans/about_scoring_project.rb">
+        <entry file="file://$PROJECT_DIR$/koans/about_scope.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="51" column="10" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
+            <state relative-caret-position="356">
+              <caret line="77" column="5" lean-forward="true" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/koans/about_proxy_object_project.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="12" column="66" lean-forward="true" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/about_proxy_object_project.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="33">
+              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/koans/about_classes.rb">
+        <entry file="file://$PROJECT_DIR$/koans/about_to_str.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/about_message_passing.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2622" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/about_scope.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="318">
-              <caret line="187" column="18" selection-start-line="187" selection-start-column="18" selection-end-line="187" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///usr/share/rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0/rubygems/core_ext/kernel_require.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="58" selection-start-line="58" selection-end-line="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/about_scoring_project.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/about_sandwich_code.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="84" column="28" lean-forward="true" selection-start-line="84" selection-start-column="4" selection-end-line="89" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/example_file.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/triangle.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+              <caret line="75" column="17" selection-start-line="75" selection-start-column="17" selection-end-line="75" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -129,6 +130,16 @@
         <option value="$PROJECT_DIR$/koans/about_sandwich_code.rb" />
         <option value="$PROJECT_DIR$/koans/about_scoring_project.rb" />
         <option value="$PROJECT_DIR$/koans/about_classes.rb" />
+        <option value="$PROJECT_DIR$/koans/about_open_classes.rb" />
+        <option value="$PROJECT_DIR$/src/about_dice_project.rb" />
+        <option value="$PROJECT_DIR$/koans/about_dice_project.rb" />
+        <option value="$PROJECT_DIR$/koans/about_inheritance.rb" />
+        <option value="$PROJECT_DIR$/koans/about_modules.rb" />
+        <option value="$PROJECT_DIR$/koans/about_scope.rb" />
+        <option value="$PROJECT_DIR$/koans/about_class_methods.rb" />
+        <option value="$PROJECT_DIR$/koans/about_message_passing.rb" />
+        <option value="$PROJECT_DIR$/koans/about_proxy_object_project.rb" />
+        <option value="$PROJECT_DIR$/koans/about_to_str.rb" />
       </list>
     </option>
   </component>
@@ -282,12 +293,12 @@
       <updated>1554369682602</updated>
       <workItem from="1554369685653" duration="913000" />
       <workItem from="1554370623261" duration="1897000" />
-      <workItem from="1554372546241" duration="22364000" />
+      <workItem from="1554372546241" duration="26409000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25174000" />
+    <option name="totallyTimeSpent" value="29219000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -300,7 +311,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25506938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -574,8 +584,93 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/koans/about_classes.rb">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="188" column="5" lean-forward="true" selection-start-line="188" selection-start-column="5" selection-end-line="188" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_open_classes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/about_dice_project.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_dice_project.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-589">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_inheritance.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="80" column="18" lean-forward="true" selection-start-line="80" selection-start-column="18" selection-end-line="80" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_modules.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="61" column="5" lean-forward="true" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/about_scope.rb">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="318">
-          <caret line="187" column="18" selection-start-line="187" selection-start-column="18" selection-end-line="187" selection-end-column="18" />
+          <caret line="75" column="17" selection-start-line="75" selection-start-column="17" selection-end-line="75" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_scope.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="77" column="5" lean-forward="true" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_class_methods.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="166" column="5" lean-forward="true" selection-start-line="166" selection-start-column="5" selection-end-line="166" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/about_message_passing.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2622" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_message_passing.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="164" column="70" lean-forward="true" selection-start-line="164" selection-start-column="70" selection-end-line="164" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_proxy_object_project.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="12" column="66" lean-forward="true" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/about_proxy_object_project.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koans/about_to_str.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
         </state>
       </provider>
     </entry>
